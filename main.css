@@ -90,7 +90,7 @@ ul {
 #intro_menu li {
 	padding: 0 0 0 42px;
 	# float: left;
-	width: 100px;
+	width: 140px;
 	list-style: none;
 	line-height: 32px;
 	border-bottom: 1px solid #CCCCCC;
@@ -176,10 +176,11 @@ p {
 	text-align: center;
 	font-size: 13px;
 	color: #6E6E6E;
+	line-height: 28px;
 }
 
 #news_content {
-	padding: 0px 32px;
+	padding: 20px 32px;
 	#border-top: 2px solid #90FFCC;
 	border-top: 1px inset #90FFCC;
 }
@@ -195,7 +196,7 @@ p {
 
 #intro_content {
 	width: 720px;
-	# min-height: 100px;
+	min-height: 480px;
 	float: left;
 	border-left: 1px solid #CCCCCC;
 }
